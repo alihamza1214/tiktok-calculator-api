@@ -14,8 +14,6 @@ app.listen(config.port, config.host, () => console.log('Server Running at http:/
     console.log('MongoDB Connected');
 });*/  //dont need mongodb for this project yet
 // END DB And Server Configuration
-
-
 //* Routes Registration **//
 routes(app);
 //* End Routes Registration **//

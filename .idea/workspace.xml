@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="231f138d-f07a-4ed7-a8ed-08a216240dfe" name="Default Changelist" comment="" />
+    <list default="true" id="231f138d-f07a-4ed7-a8ed-08a216240dfe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,11 +19,16 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1RN7lHHowv0I8aYZN9fwW2nSTKH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.11.0" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/config" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -25,16 +36,17 @@
     <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2019.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/controllers/api/products/methods" />
-      <recent name="D:\Personal Work\ecommerce_apis\controllers\api\apiMethods" />
-      <recent name="D:\Personal Work\ecommerce_apis\models" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src" />
       <recent name="D:\Personal Work\ecommerce_apis\routes\api" />
       <recent name="D:\Personal Work\ecommerce_apis" />
       <recent name="D:\Personal Work\ecommerce_apis\controllers\api\products" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Omnisell Projects\tiktok-calculator\config" />
+      <recent name="$PROJECT_DIR$/src/controllers/api/products/methods" />
+      <recent name="D:\Personal Work\ecommerce_apis\controllers\api\apiMethods" />
+      <recent name="D:\Personal Work\ecommerce_apis\models" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,11 +76,22 @@
       <workItem from="1569495851084" duration="2000" />
       <workItem from="1569495882575" duration="118000" />
       <workItem from="1569496018720" duration="10020000" />
-      <workItem from="1572766621542" duration="236000" />
+      <workItem from="1572766621542" duration="504000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
