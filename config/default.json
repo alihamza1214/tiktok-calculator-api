@@ -1,0 +1,8 @@
+{
+    "db":"mongodb://localhost:27017/tiktok",
+    "host":"localhost",
+    "port":3333,
+    "jwt_secret":"$2b$10$0bHiA.yaUQF1DxJSLjfDQOZjImk7Cb5EMijPvLYpZAgmc3qIttBhy",
+    "limit":30,
+    "skip":0
+}
