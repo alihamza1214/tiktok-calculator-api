@@ -1,3 +1,4 @@
+require = require("esm")(module /*, options*/);
 require('app-module-path').addPath(__dirname);
 const express = require('express');
 const mongoose = require('mongoose');
