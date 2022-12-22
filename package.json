@@ -14,7 +14,7 @@
     "bcrypt": "^3.0.6",
     "express": "^4.17.1",
     "joi": "^14.3.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "mongoose": "^5.6.10",
     "mongoose-slug-updater": "^3.1.4",
     "tiktok-api": "^0.4.1",
